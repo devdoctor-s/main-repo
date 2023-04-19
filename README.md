@@ -1,19 +1,13 @@
-# official website
-[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/devdoctor-s/main-repo/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/devdoctor-s/main-repo/actions/workflows/jekyll-gh-pages.yml)
-# https://www.tensorflow.org/tutorials/keras/basic_classification 
+As the tech industry continues to grow, so does the demand for skilled professionals. However, for junior developers, breaking into this competitive market can be challenging. That's where DevDoctor comes in - a platform that provides personalized career coaching, resume assessments, interview practice, and other tools specifically tailored to the needs of its members.
 
-import tensorflow as tf
-from tensorflow import keras
+One of the standout features of DevDoctor is its team of seasoned experts who offer guidance and support to junior developers. These experts have years of experience working in the tech industry and understand the skills and qualities that are highly valued by employers. This means that members of DevDoctor can benefit from the knowledge and expertise of these professionals, giving them an edge in the job market.
 
+One of the most valuable services offered by DevDoctor is personalized career coaching. This involves working one-on-one with a coach who can help junior developers identify their strengths and weaknesses, set achievable goals, and develop a plan to achieve them. This kind of guidance can be incredibly valuable for those who are just starting out in their careers and need direction on how to progress.
 
-fashion_mnist = keras.datasets.fashion_mnist
+Another great feature of DevDoctor is its resume assessment service. This involves having a professional review your resume and provide feedback on how to make it stand out to potential employers. With so many candidates applying for tech jobs, having a well-crafted resume can be the difference between getting an interview and being overlooked.
 
+In addition to career coaching and resume assessments, DevDoctor also offers interview practice sessions. These sessions are designed to help members prepare for job interviews by providing them with real-world scenarios and feedback on their performance. This kind of practice can be invaluable for those who are nervous about interviews or who are not sure what to expect.
 
-(train_images, train_labels), (test_images, test_labels) = fashion_mnist.load_data()
+Overall, DevDoctor is a great resource for junior developers who are looking to break into the tech industry. With personalized career coaching, resume assessments, interview practice, and other tools specifically tailored to their needs, members of DevDoctor can gain the skills and confidence they need to succeed in this competitive market. If you're a junior developer looking for guidance and support, DevDoctor is definitely worth checking out.
 
-
-class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
-  'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
-  
-  
-  
+# [DevDoctor](https://www.devdoctor.io/) [![Build Status](https://travis-ci.org/DevDoctorIO/devdoctor.svg?branch=master)](https://travis-ci.org/DevDoctorIO/devdoctor) [![Coverage Status](https://coveralls.io/repos/github/DevDoctorIO/devdoctor/badge.svg?branch=master)](https://coveralls.io/github/DevDoctorIO/devdoctor?branch=master) [![Code Climate](https://codeclimate.com/github/DevDoctorIO/devdoctor/badges/gpa.svg)](https://codeclimate.com/github/DevDoctorIO/devdoctor) [![Issue Count](https://codeclimate.com/github/DevDoctorIO/devdoctor/badges/issue_count.svg)](https://codeclimate.com/github/DevDoctorIO/devdoctor) [![Test Coverage](https://codeclimate.com/github/DevDoctorIO/devdoctor/badges/coverage.svg)](https://codeclimate.com/github/DevDoctorIO/devdoctor/coverage) [![Dependency Status](https://gemnasium.com/badges/github.com/DevDoctorIO/devdoctor.svg)](https://gemnasium.com/github.com/DevDoctorIO/devdoctor) [![Inline docs](http://inch-ci.org/github/DevDoctorIO/devdoctor.svg?branch=master)](http://inch-ci.org/github/DevDoctorIO/devdoctor) [![security](https://hakiri.io/github/DevDoctorIO/devdoctor/master.svg)](https://hakiri.io/github/DevDoctorIO/devdoctor/master) [![Join the chat at https://gitter.im/DevDoctorIO/devdoctor](https://badges.gitter.im/DevDoctorIO/devdoctor.svg)](https://gitter.im/DevDoctorIO/devdoctor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) ## About DevDoctor As the tech industry continues to grow, so does the demand for skilled professionals. However, for junior developers, breaking into this competitive market can be challenging. That's where DevDoctor comes in - a platform that provides personalized career coaching, resume assessments, interview practice, and other tools specifically tailored to the needs of its members. One of the standout features of DevDoctor is its team of seasoned experts who offer guidance and support to junior developers. These experts have years of experience working in the tech industry and understand the skills and qualities that are highly
